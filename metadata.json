@@ -1,0 +1,6 @@
+{
+  "name": "Penya's Carwash & Shisanyama",
+  "description": "Professional modern website prototype for Penya's Carwash and Shisanyama in South Africa, combining premium car wash services with authentic Shisanyama dining.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
